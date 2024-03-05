@@ -6,7 +6,6 @@ A little more about me...
 - 🌱 Study at the Catholic University of Pernambuco
 - 🤔 My focus is on back-end with java and web development
 - 📫 Connect with me on <a href="https://www.linkedin.com/in/andre-carvalho-1305362b8/">LinkedIn</a>
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love sports and games!
 
 <div align="initial">
